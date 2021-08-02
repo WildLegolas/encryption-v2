@@ -13,3 +13,6 @@ to set the seed, type in the seed into the left text box and press "showtime", t
 now translate any message to or from the encrypted version with entries on the left and output on the right text box,
 making sure to clear after every entry as translation takes in everything in the left text box, not just newest line
 
+available input languages, are english, german, spanish, french, russian, and greek, along with special characters
+space is included as chinese does not use spaces and this encryption seeks to blend in to any non-speakers as normal chinese text
+only \ is excluded from translation
